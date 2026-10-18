@@ -1,0 +1,27 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/0umf92h1sb77c.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:I[97367,["$4"],"OutletBoundary"]
+c:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$4"],"$f"]
+11:"MetadataBoundary"
+12:I[97367,["$4"],"$11"]
+13:I[27201,["$4"],"IconMark"]
+:HL["/_next/static/chunks/1-n52dgrf9e6_.css","style"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","section",null,{"className":"y8IlVa_page","aria-labelledby":"page-title","children":[["$","h1",null,{"id":"page-title","className":"y8IlVa_title","children":"学习"}],["$","p",null,{"className":"y8IlVa_intro","children":"我学过什么、怎么理解，以及用它做了什么。各主题的笔记正在整理中。"}],["$","ul",null,{"className":"y8IlVa_topics","children":[["$","li","智能体工程",{"className":"y8IlVa_c1","children":[["$","h2",null,{"className":"y8IlVa_topicTitle","children":"智能体工程"}],["$","p",null,{"children":"工作流与智能体的取舍、记忆机制、子智能体，以及上下文如何组装。"}]]}],["$","li","规范驱动开发",{"className":"y8IlVa_c2","children":[["$","h2",null,{"className":"y8IlVa_topicTitle","children":"规范驱动开发"}],["$","p",null,{"children":"用规范、任务和测试，作为人和编码智能体之间的契约。"}]]}],["$","li","语音与多模态",{"className":"y8IlVa_c3","children":[["$","h2",null,{"className":"y8IlVa_topicTitle","children":"语音与多模态"}],["$","p",null,{"children":"音频编码器、语音 tokenizer，以及如何融合语气和文字。"}]]}]]}]]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1-n52dgrf9e6_.css","precedence":"next"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$9"}}]]
+2:[["children",{"s":"learning","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"zh","c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f8f9fb","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0a0b0e","media":"(prefers-color-scheme: dark)"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"学习 · 王祥辉"}],["$","meta","1",{"name":"description","content":"王祥辉，AI 工程师，主攻 LLM 智能体开发，研究方向为多模态情感识别；江南大学软件工程硕士，2027 年毕业。"}],["$","link","2",{"rel":"canonical","href":"https://qingyuxingzhe.github.io/zh/learning/"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"https://qingyuxingzhe.github.io/learning/"}],["$","link","4",{"rel":"alternate","hrefLang":"zh-CN","href":"https://qingyuxingzhe.github.io/zh/learning/"}],["$","meta","5",{"property":"og:title","content":"学习 · 王祥辉"}],["$","meta","6",{"property":"og:description","content":"王祥辉，AI 工程师，主攻 LLM 智能体开发，研究方向为多模态情感识别；江南大学软件工程硕士，2027 年毕业。"}],["$","meta","7",{"property":"og:url","content":"https://qingyuxingzhe.github.io/zh/learning/"}],["$","meta","8",{"property":"og:site_name","content":"Xianghui Wang"}],["$","meta","9",{"property":"og:locale","content":"zh_CN"}],["$","meta","10",{"property":"og:locale:alternate","content":"en_US"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary"}],["$","meta","13",{"name":"twitter:title","content":"学习 · 王祥辉"}],["$","meta","14",{"name":"twitter:description","content":"王祥辉，AI 工程师，主攻 LLM 智能体开发，研究方向为多模态情感识别；江南大学软件工程硕士，2027 年毕业。"}],["$","link","15",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L13","16",{}]]}]}],null]}],null]}],"p":"$@14","v":null,"s":"$9"}},"a":"$@15","u":"$@16","b":"WrzhSjqEbuqi_wZ57VYuS"}
+d:null
+16:true
+9:300
+9:C
+15:0
+7:"$undefined"
+14:"$undefined"
+e:"$undefined"
